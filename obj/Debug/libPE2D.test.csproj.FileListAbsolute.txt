@@ -1,0 +1,11 @@
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\bin\Debug\libPE2D.test.exe.config
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\bin\Debug\libPE2D.test.exe
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\bin\Debug\libPE2D.test.pdb
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\bin\Debug\libPE2D.dll
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\bin\Debug\OpenTK.dll
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\bin\Debug\libPE2D.pdb
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\bin\Debug\OpenTK.xml
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\obj\Debug\libPE2D.test.csprojResolveAssemblyReference.cache
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\obj\Debug\libPE2D.test.csproj.CoreCompileInputs.cache
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\obj\Debug\libPE2D.test.exe
+E:\Downloads\程式設計\Dot Net\CShape專檔\libPE2D.test\obj\Debug\libPE2D.test.pdb
